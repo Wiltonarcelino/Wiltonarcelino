@@ -42,7 +42,22 @@ Acredito fortemente no aprendizado contínuo. Como estou estruturando meu portf�
 *Em breve, disponibilizarei repositórios públicos demonstrando minha evolução e soluções reais nessas linguagens.*
 
 ---
+### 📊 Visão Geral do Repositório
 
+<p align="left">
+  <img 
+    alt="GitHub Stats" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
+  />
+  <img 
+      alt="Top Languages" 
+      height="170" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=4&hide_border=true" 
+  />
+</p>
+
+---
 ### 📬 Vamos nos conectar?
 
 Estou sempre aberto a novas conexões, oportunidades e para trocar ideias sobre código, desenvolvimento e tecnologia. Sinta-se à vontade para me mandar uma mensagem por onde preferir:
