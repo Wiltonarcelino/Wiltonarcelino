@@ -42,22 +42,7 @@ Acredito fortemente no aprendizado contínuo. Como estou estruturando meu portf�
 *Em breve, disponibilizarei repositórios públicos demonstrando minha evolução e soluções reais nessas linguagens.*
 
 ---
-### 📊 Visão Geral do Repositório
 
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
-  />
-  <img 
-      alt="Top Languages" 
-      height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=4&hide_border=true" 
-  />
-</p>
-
----
 ### 📬 Vamos nos conectar?
 
 Estou sempre aberto a novas conexões, oportunidades e para trocar ideias sobre código, desenvolvimento e tecnologia. Sinta-se à vontade para me mandar uma mensagem por onde preferir:
@@ -65,6 +50,9 @@ Estou sempre aberto a novas conexões, oportunidades e para trocar ideias sobre 
 <p align="left">
     <a href="https://www.linkedin.com/in/wiltonarcelino" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/wiltonarcelino" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="mailto:wiltonarcelinoo@gmail.com">
         <img alt="E-mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
